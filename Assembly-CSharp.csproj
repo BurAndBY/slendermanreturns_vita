@@ -51,10 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
+     <Compile Include="Assets\SceneLoader.cs" />
+     <Compile Include="Assets\Script\DeathCSRewrite.cs" />
+     <Compile Include="Assets\Script\VictoryCSRewrite.cs" />
      <Compile Include="Assets\torch\scene\script\TorchSlider.cs" />
      <Compile Include="Assets\torch\scene\script\Torchslider2.cs" />
      <Compile Include="Assets\torch\scripts\Torchelight.cs" />
+     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineFill.shader" />
+     <None Include="Assets\QuickOutline\Readme.txt" />
      <None Include="Assets\torch\readme.txt" />
+     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>D:/!UnityProject/Slenderman Returns/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

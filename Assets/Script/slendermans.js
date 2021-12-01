@@ -116,13 +116,13 @@ function Update () {
     }
     
     //Trucco Mappa
-    if (Input.GetKeyDown(KeyCode.M) && mappaAttiva == false){
+    if (Input.GetKeyDown(KeyCode.JoystickButton6) && mappaAttiva == false){
     	mappa.SetActive(true);
     	Torcia.SetActive(false);
     	lucem.SetActive(true);
     	mappaAttiva = true;
     }
-    else if (Input.GetKeyDown(KeyCode.M) && mappaAttiva == true){
+    else if (Input.GetKeyDown(KeyCode.JoystickButton6) && mappaAttiva == true){
     	mappa.SetActive(false);
     	Torcia.SetActive(true);
     	lucem.SetActive(false);

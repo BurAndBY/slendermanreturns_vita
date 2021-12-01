@@ -34,7 +34,7 @@ function Update () {
                 Cursor.visible = false;
         }
         
-		else if (Input.GetKeyDown(KeyCode.JoystickButton0)){
+		else if (Input.GetKeyDown(KeyCode.JoystickButton0) && paused == true){
 			paused = false;
             Time.timeScale = 1;
             PauseGUI.enabled = false;

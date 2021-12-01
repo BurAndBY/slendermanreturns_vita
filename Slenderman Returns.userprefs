@@ -1,14 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\pausa.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\passi.js">
     <Files>
       <File FileName="Assets\Script\slendermans.js" Line="1" Column="1" />
       <File FileName="Assets\Script\paginainterazione.js" Line="1" Column="1" />
-      <File FileName="Assets\Script\torcia.js" Line="16" Column="39" />
-      <File FileName="Assets\Script\vittoria.js" Line="11" Column="2" />
-      <File FileName="Assets\Script\pausa.js" Line="22" Column="31" />
-      <File FileName="Assets\Script\Hover script.js" Line="11" Column="39" />
-      <File FileName="Assets\Script\morte.js" Line="9" Column="46" />
+      <File FileName="Assets\Script\torcia.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\vittoria.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\pausa.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Hover script.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\morte.js" Line="1" Column="1" />
       <File FileName="Assets\Script\passi.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
