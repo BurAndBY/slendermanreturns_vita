@@ -22,3 +22,6 @@ https://github.com/rosarioterranova/slenderman_returns/raw/master/Build/Slenderm
 
 # Download build for PSVITA
 https://github.com/BurAndBY/slendermanreturns_vita/releases/
+
+# Project is made by Rosario Terranova.
+Original Repo - https://github.com/rosarioterranova/slenderman_returns
