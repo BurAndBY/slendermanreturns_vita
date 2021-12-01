@@ -10,8 +10,8 @@ Slender Man Returns is a software project for the course of "Digital Game Develo
 
 # Info
 - **Name**: Slenderman Returns
-- **Platform**: Windows, Windows Phone, Linux, Android, Mac, iOS
-- **Game Engine**: Unity 4
+- **Platform**: Windows, Windows Phone, Linux, Android, Mac, iOS, PSVita
+- **Game Engine**: Unity 2017.4.2f2 (Unity 4 Updated)
 - **Programming language**: C#
 
 # Screenshots
@@ -19,3 +19,6 @@ https://github.com/rosarioterranova/slenderman_returns/tree/master/Screenshots
 
 # Download build for Windows desktop
 https://github.com/rosarioterranova/slenderman_returns/raw/master/Build/Slenderman%20Returns%20v1.0%20alpha.rar
+
+# Download build for PSVITA
+https://github.com/BurAndBY/slendermanreturns_vita/releases/
